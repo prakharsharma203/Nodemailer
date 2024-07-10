@@ -1,0 +1,20 @@
+{
+  "name": "mail-using-nodemailer",
+  "version": "1.0.0",
+  "description": "NodeMailer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Maildev",
+    "nodeMailer"
+  ],
+  "author": "Prakhar Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.14"
+  }
+}
